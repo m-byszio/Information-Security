@@ -4,8 +4,8 @@ This file shows I know how to create files in GitHub, write in Markdown and how 
 
 ## Code snippet
 
-  var security = true;
+  'var security = true;
   when (security === true){
     console.log(All your bases are belong to us!)
-    }
+    }'
     
